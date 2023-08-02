@@ -1,0 +1,20 @@
+
+.modal-content {
+    width:max-content;
+    flex-direction: row;
+    justify-items:center;
+}
+div .form-items {
+    flex-direction: column;
+}
+div.description {
+    width:max-content;
+    flex: content;
+}
+label {
+    padding: 1px 3px ;
+}
+input {
+    padding: 4px;
+
+}
